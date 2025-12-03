@@ -39,3 +39,11 @@ h1 {
     color: white;
     border-color: #0056b3;
 }
+#student-02 {
+    background: #28a745;
+    color: white;
+    border-color: #1e7e34;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
